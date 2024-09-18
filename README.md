@@ -4,7 +4,8 @@ Database for storage and exploration data coming from Airbnb. The database consi
 The shape of the base is illustrated in an ER diagram. The creation of the tables is using the input of the data with the \copy command. 
 Also created referential foreign key constraints.
 
-Toos used for database implemantation
+Tools used for database implemantation
 ● Draw.io
 ● AWS RDS Postgres instance
-● Postgres psql client / pgAdmin
+● Postgres
+● pgAdmin
